@@ -43,6 +43,7 @@
 |------|------|------|------|
 | [001](./001-omlx-project-overview.md) | oMLX 项目全维度深度分析 | ✅ | 从需求/功能/架构/业务/原理五个维度对 oMLX 进行深入分析 |
 | [002](./002-mlx-omlx-relationship.md) | MLX 框架与 oMLX 的关系 | ✅ | 解释 MLX 家族层级、oMLX 调用 MLX 的 7 个层次、6 类关键适配 |
+| [003](./003-comparison-with-other-runtimes.md) | oMLX vs vLLM/Ollama/llama.cpp/RKNN | ✅ | 与四大 LLM 推理运行时全面对比（架构/缓存/批处理/量化/性能/选型） |
 
 ## 文档模板
 
