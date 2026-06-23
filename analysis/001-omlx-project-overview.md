@@ -1,10 +1,13 @@
-# oMLX 项目全维度深度分析
+# 001 · oMLX 项目全维度深度分析
 
+> **文档编号**：`analysis/001-omlx-project-overview.md`
 > **项目**：oMLX —— "LLM inference, optimized for your Mac"
 > **定位**：面向 Apple Silicon (M1/M2/M3/M4) 的生产级本地 LLM 推理服务器
 > **技术栈**：Python 3.11+ · MLX · mlx-lm · mlx-vlm · FastAPI · Uvicorn · Swift/SwiftUI
 > **License**：Apache 2.0
 > **分析维度**：需求 (Requirements) · 功能 (Features) · 架构 (Architecture) · 业务 (Business) · 原理 (Principles)
+
+> 📁 本文档属于 [analysis/](../analysis/) 目录。编号管理规范请参见 [analysis/README.md](./README.md)。
 
 ---
 
