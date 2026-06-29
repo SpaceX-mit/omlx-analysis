@@ -46,6 +46,7 @@
 | [003](./003-comparison-with-other-runtimes.md) | oMLX vs vLLM/Ollama/llama.cpp/RKNN | ✅ | 与四大 LLM 推理运行时全面对比（架构/缓存/批处理/量化/性能/选型） |
 | [100](./100-mlx-framework-principles.md) | Apple MLX 框架原理深度剖析 | ✅ | 统一内存、Lazy Evaluation、JIT 编译、Metal 后端、SDPA、量化、Stream 模型 |
 | [200](./200-batch-generator-and-continuous-batching.md) | mlx-lm BatchGenerator 与连续批处理 | ✅ | 连续批处理原理、SequenceStateMachine、Chunked Prefill、Decode Burst、Monkey-patch 体系 |
+| [400](./400-multi-model-inference-pipeline.md) | 多模型推理全链路 | ✅ | LLM/VLM/Embedding/Reranker/STT/TTS/STS/DFlash 8 类模型端到端管道 |
 
 ## 文档模板
 
